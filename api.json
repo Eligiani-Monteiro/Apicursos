@@ -1,0 +1,76 @@
+{
+    "cursos":[
+        {
+            "Id": 1,
+            "nomeCurso": "Analise e Desemvolvivento de Sitemas",
+            "nivelEnsino": "Graduação",
+            "duracao": "6 Semestres",
+            "municipio": "Naviraí-MS"
+        },
+        {
+            "Id": 2,
+            "nomeCurso": "Agronomia",
+            "nivelEnsino": "Graduação",
+            "duracao": "10 Semestres",
+            "municipio": "Naviraí-MS"
+        },
+        {
+            "Id": 3,
+            "nomeCurso": "Engenharia da Computação",
+            "nivelEnsino": "Graduação",
+            "duracao": "10 Semestres",
+            "municipio": "Ponta Porã-MS"
+        },
+        {
+            "Id": 4,
+            "nomeCurso": "Arquitetura e Urbanismo",
+            "nivelEnsino": "Graduação",
+            "duracao": "10 Semestres",
+            "municipio": "Jardim-MS"
+        },
+        {
+            "Id": 5,
+            "nomeCurso": "Engenharia Mecanica",
+            "nivelEnsino": "Graduação",
+            "duracao": "10 Semestres",
+            "municipio": "Campo Grande-MS"
+        },
+        {
+            "Id": 6,
+            "nomeCurso": "Engenharia Cívil",
+            "nivelEnsino": "Graduação",
+            "duracao": "10 Semestres",
+            "municipio": "Aquidauana-MS"
+        },
+        {
+            "Id": 7,
+            "nomeCurso": "Engenharia  de Controle e Automação",
+            "nivelEnsino": "Graduação",
+            "duracao": "10 Semestres",
+            "municipio": "Três Lagoas-MS"
+        },
+        {
+            "Id": 8,
+            "nomeCurso": "Engenharia Elétrica",
+            "nívelEnsino": "Graduação",
+            "duracao": "10 Semestres",
+            "municipio": "Campo Grande-MS"
+        },
+        {
+            "Id": 9,
+            "nomeCurso": "Licenciatura em Computação ",
+            "nivelEnsino": "Graduação",
+            "duracao": "8 Semestres",
+            "municipio": "Jardim-MS"
+        },
+        {
+            "Id": 10,
+            "nomeCurso": "Química",
+            "nivelEnsino": "Graduação",
+            "duracao": "9 Semestres",
+            "municipio": "Coxim-MS"
+        }
+
+        
+    ]
+}
